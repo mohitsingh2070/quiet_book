@@ -4,7 +4,7 @@
   Never put a service_role/secret key in this file.
 */
 
-const SUPABASE_URL = "https://lvynfmtiquntngatywzg.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://lvynfmtiquntngatywzg.supabase.co";
 const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_cxKdWMmUApcBS4bKvKgqZw_SWLMAoHD";
 
 const form = document.getElementById("response-form");

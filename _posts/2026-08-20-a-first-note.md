@@ -18,5 +18,3 @@ Nothing here needs to become anything more than what it is.
 > *Keep what is gentle. Let the rest pass.*
 
 ---
-
-This is your first post. Replace it, or keep it as a placeholder while you set everything up.

@@ -245,7 +245,7 @@ But maybe there is some truth in it.
 
 Time doesn't really erase anything.
 
-It just makes the memory less sharp.
+It just makes the memory less sharp. The edges became rounded as if what earlier pricked became gentle.
 
 Friends came.
 
@@ -277,30 +277,82 @@ Like a friend.
 
 And I think that was when I realised that perhaps I had healed a little.
 
-Not because I stopped caring.
-
-Not because I suddenly stopped liking you.
-
-Not because everything became meaningless.
+I guess it's not as if I stopped caring, or I suddenly stopped liking you.
 
 But because I no longer needed the situation to change for me to be okay.
 
 Maybe that is what healing actually is.
 
-You don't forget.
+I don't think I would change anything about that time now.
 
-You don't suddenly become indifferent.
+I would relive the sleepless night, the in-viscous tears rolling though or even the jealousy or the things I thought that I probably shouldn't have thought.
 
-You just become capable of carrying the memory without letting it crush you.
+Because when I look back at myself in that state now, I don't feel embarrassed by him.
 
-And perhaps one day, when I look back at all of this, I won't remember the sleepless night or the messages I almost sent.
+I actually find something beautiful in that version of myself.
 
-Maybe I'll just remember that there was a time when three people were standing in the middle of a very strange little story...
+He cared that much.
 
-each carrying something they couldn't say,
+He felt that much.
 
-each trying to pretend that nothing was happening,
+Maybe he didn't know what to do with all of it, but he felt it honestly.
 
-and somehow,
+And perhaps there is something beautiful about being able to feel something so deeply, even when it hurts.
 
-all of us were saying it anyway.
+It doesn't hurt me anymore.
+
+When I think about it now, there is no anger or resentment.
+
+Just this strange little smile that comes when you remember a version of yourself who was once completely lost inside something that, with time, became just another chapter.
+
+And I think this is what people mean when they say,
+
+*life goes on.*
+
+I don't think that everything gets forgotten or the people disappear from your memory or even what happened suddenly becomes unimportant.
+
+It is just that Life just keeps moving.
+
+You wake up.
+
+You meet new people.
+
+You have new conversations.
+
+You laugh about things you never thought you would laugh about again.
+
+And one day you realise that something which once occupied your entire mind has become just a memory sitting quietly somewhere inside you.
+
+I don't want to change anything about that version of my life.
+
+It was painful, yes.
+
+But it was also real.
+
+And maybe that's enough.
+
+Now when I look back, I don't ask myself why it happened.
+
+I don't ask what I could have done differently.
+
+I just look at that boy and think...
+
+*you really went through all of that, didn't you?*
+
+And then I smile.
+
+Because life went on.
+
+And I suppose that's the beautiful part.
+
+We don't always get the ending we imagined.
+
+Sometimes the story simply moves to the next page.
+
+And this one does too.
+
+We don't talk anymore.
+
+But that's a different story.
+
+Maybe I'll write about that tomorrow.

@@ -953,7 +953,7 @@ remember point one, i was completely wrong, i could be not more wromg than taht.
     Suswara, Gayatri, Kavya and Yashaswini took care of everything themselves.
     No outside makeup artist, no professional team. They planned the looks,
     divided the work, trained people, did multiple trials and slowly figured out
-    what worked and what absolutely did not.
+    what worked and what absolutely did not (I doubt this part though).
   </p>
 
 

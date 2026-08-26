@@ -926,7 +926,7 @@ remember point one, i was completely wrong, i could be not more wromg than taht.
     And apparently, I have been instructed, rather forcefully by one of my friends,
     not to skip the costumes and makeup part. I had deliberately avoided going into
     too much detail because this story was already becoming unnecessarily long, but
-    apparently some contributions cannot be quietly edited out 😂.
+    apparently some contributions cannot be quietly edited out.
   </p>
 
   <p>
@@ -943,7 +943,7 @@ remember point one, i was completely wrong, i could be not more wromg than taht.
     Gayatri also apparently spent a considerable amount of time ironing all the
     clothes, which I had conveniently forgotten, and I even went with her to the
     costume shop. So, looking back, I really don't know how I managed to skip this
-    entire episode from the story 😂.
+    entire episode from the story.
   </p>
 
   <p>

@@ -194,7 +194,6 @@ input:focus, textarea:focus { outline: 2px solid #c9c0b6; outline-offset: 1px; }
   max-width: 100%;
 }
 
-/* Small list of problems/solutions near the end */
 
 .story-list {
   margin: 2.5rem 0;
@@ -206,7 +205,6 @@ input:focus, textarea:focus { outline: 2px solid #c9c0b6; outline-offset: 1px; }
   margin: 0.65rem 0;
 }
 
-/* Give the final reflection a little breathing room */
 
 .post-ending {
   margin-top: 4rem;
@@ -216,4 +214,21 @@ input:focus, textarea:focus { outline: 2px solid #c9c0b6; outline-offset: 1px; }
   line-height: 1.9;
   text-align: center;
   font-style: italic;
+}
+
+.post-ps {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid #ddd;
+  font-size: 0.95rem;
+  line-height: 1.8;
+}
+
+.post-ps p:first-child {
+  margin-bottom: 1.2rem;
+  font-size: 1rem;
+}
+
+.post-ps strong {
+  font-weight: 600;
 }

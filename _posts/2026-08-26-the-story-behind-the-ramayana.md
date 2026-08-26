@@ -954,13 +954,6 @@ remember point one, i was completely wrong, i could be not more wromg than taht.
     what worked and what absolutely did not.
   </p>
 
-  <p>
-    Then came the costume changes. What looks like a few seconds of someone
-    disappearing and reappearing on stage is actually a small war happening
-    backstage. They had to plan who changes where, who helps whom, and how quickly
-    it could all happen. They even pre-draped the sarees so that the changes could
-    happen within the tiny windows we had.
-  </p>
 
   <p>
     And after all this, costumes, jewellery, makeup, trials, ironing, pre-draping
@@ -976,7 +969,7 @@ remember point one, i was completely wrong, i could be not more wromg than taht.
 
   <p>
     So yes, pa, this paragraph exists because you reminded me, rather forcefully,
-    that I had forgotten it. Sorry, it completely went from my head 😂.
+    that I had forgotten it. Sorry, it completely went from my head. you can actually guess who that person is from the paragraph !!!!
   </p>
 
 </div>

@@ -915,4 +915,68 @@ The final play was only what the audience saw.<br>
 The real Ramayana, at least for us, was everything that happened before the curtain opened.
 </p>
 
-p.s. - remember point one, i was completely wrong, i could be not more wromg than taht. He was the person with all the attributes, did it flawlessly. I felt so happy to be proven sooo wrong. 
+
+<div class="post-ps">
+
+  <p><strong>P.S.</strong></p>
+
+remember point one, i was completely wrong, i could be not more wromg than taht. He was the person with all the attributes, did it flawlessly. I felt so happy to be proven sooo wrong. 
+
+  <p>
+    And apparently, I have been instructed, rather forcefully by one of my friends,
+    not to skip the costumes and makeup part. I had deliberately avoided going into
+    too much detail because this story was already becoming unnecessarily long, but
+    apparently some contributions cannot be quietly edited out 😂.
+  </p>
+
+  <p>
+    Sangeerth, Suswara and Gayatri took responsibility for arranging the costumes.
+    To keep the costs down, the women mostly arranged their own costumes and we rented
+    only the male costumes. Though, even some of those were arranged by the women
+    themselves. A lot of the jewellery you see on the women actually came from
+    Suswara's collection or Gayatri's. Some of the sarees were from Sudarshan's
+    mother, and even the shawls we used as props were partly Suswara's and partly
+    Sudarshan's.
+  </p>
+
+  <p>
+    Gayatri also apparently spent a considerable amount of time ironing all the
+    clothes, which I had conveniently forgotten, and I even went with her to the
+    costume shop. So, looking back, I really don't know how I managed to skip this
+    entire episode from the story 😂.
+  </p>
+
+  <p>
+    Makeup was another small production running inside the production. Madhura,
+    Suswara, Gayatri, Kavya and Yashaswini took care of everything themselves.
+    No outside makeup artist, no professional team. They planned the looks,
+    divided the work, trained people, did multiple trials and slowly figured out
+    what worked and what absolutely did not.
+  </p>
+
+  <p>
+    Then came the costume changes. What looks like a few seconds of someone
+    disappearing and reappearing on stage is actually a small war happening
+    backstage. They had to plan who changes where, who helps whom, and how quickly
+    it could all happen. They even pre-draped the sarees so that the changes could
+    happen within the tiny windows we had.
+  </p>
+
+  <p>
+    And after all this, costumes, jewellery, makeup, trials, ironing, pre-draping
+    and whatever else went into making all of us look remotely like the characters,
+    the total expenditure was just ₹13,000.
+  </p>
+
+  <p>
+    That was possible because people kept contributing whatever they had:
+    clothes, jewellery, resources, time, effort, ideas and sometimes just the
+    willingness to say, "Okay, I'll take care of this."
+  </p>
+
+  <p>
+    So yes, pa, this paragraph exists because you reminded me, rather forcefully,
+    that I had forgotten it. Sorry, it completely went from my head 😂.
+  </p>
+
+</div>

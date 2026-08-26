@@ -914,3 +914,5 @@ But perhaps that is also the beauty of it.
 The final play was only what the audience saw.<br>
 The real Ramayana, at least for us, was everything that happened before the curtain opened.
 </p>
+
+p.s. - remember point one, i was completely wrong, i could be not more wromg than taht. He was the person with all the attributes, did it flawlessly. I felt so happy to be proven sooo wrong. 

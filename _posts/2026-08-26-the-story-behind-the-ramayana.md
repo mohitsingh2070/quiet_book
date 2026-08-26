@@ -920,8 +920,10 @@ The real Ramayana, at least for us, was everything that happened before the curt
 
   <p><strong>P.S.</strong></p>
 
+<p>
 remember point one, i was completely wrong, i could be not more wromg than taht. He was the person with all the attributes, did it flawlessly. I felt so happy to be proven sooo wrong. 
-
+</p>
+  
   <p>
     And apparently, I have been instructed, rather forcefully by one of my friends,
     not to skip the costumes and makeup part. I had deliberately avoided going into

@@ -232,3 +232,56 @@ input:focus, textarea:focus { outline: 2px solid #c9c0b6; outline-offset: 1px; }
 .post-ps strong {
   font-weight: 600;
 }
+
+.poem-entry {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.poem-intro {
+  text-align: center;
+  font-style: italic;
+  color: #777;
+  margin-bottom: 2.5rem;
+}
+
+.poem-image {
+  margin: 0 auto 3rem;
+  text-align: center;
+}
+
+.poem-image img {
+  display: block;
+  width: 100%;
+  max-width: 620px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+.poem-note {
+  max-width: 580px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.05rem;
+  line-height: 1.9;
+}
+
+.poem-note p {
+  margin: 0 0 1.5rem;
+}
+
+.poem-closing {
+  margin-top: 3.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  color: #777;
+  font-style: italic;
+}
+
+.poem-closing span {
+  display: block;
+  margin-top: 0.8rem;
+  font-size: 1.3rem;
+}

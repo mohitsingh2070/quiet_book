@@ -83,14 +83,6 @@ But still...
 
 there are people I would give almost anything to sit with again for one completely ordinary evening.
 
-No grand conversation. No explanation for where we disappeared. No questions about all the years in between.
-
-Just sitting there.
-
-Talking about nothing.
-
-Hearing them laugh.
-
 Watching them do something completely ordinary and thinking, somewhere in the middle of it, *I remember this. I remember you.*
 
 Maybe that is the part I find hardest to accept.
@@ -99,21 +91,11 @@ A stupid little detail your mind refuses to let die.
 
 And for a few seconds, they are here again.
 
-Close enough to miss.
-
-Close enough to want.
-
-Close enough to make you wonder...
-
-if you were given just one evening with them again, would you even tell them how much you missed them?
-
-Or would you be too afraid that saying it out loud would make you realise just how much you still do?
-
 <div class="post-ending">
 
-<p>Maybe some people are not meant to return.</p>
+<p>if you were given just one evening with them again, would you even tell them how much you missed them?
 
-<p>Maybe they are only meant to remain as a voice somewhere in the back of your mind, appearing without warning when the night is quiet enough.</p>
+Or would you be too afraid that saying it out loud would make you realise just how much you still do?</p>
 
 <p>And maybe that is the cruelest part of remembering.</p>
 
@@ -123,12 +105,6 @@ Or would you be too afraid that saying it out loud would make you realise just h
 
 <p>You can build a life in which their absence no longer feels like an absence.</p>
 
-<p>But somewhere inside you, there can still be a door that never completely closes.</p>
-
-<p>Not because you are waiting for them.</p>
-
-<p>Just because once, they were there.</p>
-
-<p>And some doors remember the people who walked through them long after the house has gone dark.</p>
+<p>But somewhere inside you, they were there.</p>
 
 </div>

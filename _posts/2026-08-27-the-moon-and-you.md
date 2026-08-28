@@ -23,11 +23,11 @@ subtitle: "A small observation from tonight."
     </p>
 
     <p>
-      Then I looked at you.
+      Then I looked at you (in my imagination !).
     </p>
 
     <p>
-      And somehow, the moon seemed a little less impressive.
+      And somehow, the moon seemed a little offended.
     </p>
   </div>
 

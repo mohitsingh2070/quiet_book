@@ -157,8 +157,6 @@ input:focus, textarea:focus { outline: 2px solid #c9c0b6; outline-offset: 1px; }
   }
 }
 
-/* Story / diary images */
-
 .story-image {
   margin: 2.5rem auto;
   text-align: center;
@@ -284,4 +282,18 @@ input:focus, textarea:focus { outline: 2px solid #c9c0b6; outline-offset: 1px; }
   display: block;
   margin-top: 0.8rem;
   font-size: 1.3rem;
+}
+
+.moon-image {
+  max-width: 620px;
+  margin: 4rem auto 4.5rem;
+  text-align: center;
+}
+
+.moon-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 8px;
 }

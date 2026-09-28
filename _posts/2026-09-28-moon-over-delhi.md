@@ -8,7 +8,6 @@ subtitle: "Lyrics of a poem that hits: 'Damn, so true.'"
 
 <div class="poem-image"> <img src="{{ '/assets/images/moon.jpeg' | relative_url }}" alt="Moon over Delhi at night"> </div>
 
-<div class="poem">
 
 Yeh Delhi ki hawa hai ya ghutan ka saya<br>
 Har saans mein zeher, yeh kisne banaya?<br>
@@ -63,5 +62,3 @@ Survive, yeah, just tryna survive<br>
 
 Yeh Delhi ki hawa hai ya ghutan ka saya<br>
 Har saans mein zeher, yeh kisne banaya?<br>
-
-</div>

@@ -12,7 +12,7 @@ subtitle: "Lyrics of a poem that hits: 'Damn, so true.'"
 </style>
 
 
-<div class="poem-image"> <img src="{{ '/assets/images/moon.jpg' | relative_url }}" alt="Moon over Delhi at night"> </div>
+<div class="poem-image"> <img src="{{ '/assets/images/moon.jpeg' | relative_url }}" alt="Moon over Delhi at night"> </div>
 
 <div class="poem">
 

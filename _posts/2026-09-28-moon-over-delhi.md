@@ -5,11 +5,14 @@ category: "poem"
 subtitle: "Lyrics of a poem that hits 'Damn', so true.."
 ---
 
-<div class="poem-entry">
+<style> 
+  .poem-image { text-align: center; margin: 2.5rem 0 3rem; } 
+  .poem-image img { max-width: 100%; width: 720px; height: auto; border-radius: 6px; display: inline-block; } 
+  .poem { max-width: 720px; margin: 0 auto; line-height: 2; font-size: 1.05rem; } 
+</style>
 
-  <figure class="poem-image">
-  <img src="{{ '/assets/images/moon.jpeg' | relative_url }}"
-  </figure>
+
+<div class="poem-image"> <img src="{{ '/assets/images/moon.jpg' | relative_url }}" alt="Moon over Delhi at night"> </div>
 
 <div class="poem">
 
@@ -67,5 +70,4 @@ Survive, yeah, just tryna survive<br>
 Yeh Delhi ki hawa hai ya ghutan ka saya<br>
 Har saans mein zeher, yeh kisne banaya?<br>
 
-</div>
 </div>

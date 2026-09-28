@@ -1,8 +1,19 @@
 ---
+layout: post
+title: "Moon over Delhi at night"
+category: "poem"
+subtitle: "Lyrics of a poem that hits 'Damn', so true.."
+---
 
-<div class="poem-image">
+<div class="poem-entry">
+
+  <p class="poem-intro">
+    Some thoughts are better left small.
+  </p>
+
+  <figure class="poem-image">
   <img src="/assets/images/moon.jpeg" alt="Moon over Delhi at night">
-</div>
+  </figure>
 
 <div class="poem">
 

@@ -8,7 +8,7 @@ subtitle: "Lyrics of a poem that hits 'Damn', so true.."
 <div class="poem-entry">
 
   <figure class="poem-image">
-  <img src="/assets/images/moon.jpeg" alt="Moon over Delhi at night">
+  <img src="{{ '/assets/images/moon.jpeg' | relative_url }}"
   </figure>
 
 <div class="poem">

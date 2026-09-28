@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Moon over Delhi at night"
+title: "Yeh Delhi Ki Hawa Hai"
 category: "poem"
-subtitle: "Lyrics of a poem that hits 'Damn', so true.."
+subtitle: "Lyrics of a poem that hits: 'Damn, so true.'"
 ---
 
 <style> 

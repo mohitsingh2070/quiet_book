@@ -7,10 +7,6 @@ subtitle: "Lyrics of a poem that hits 'Damn', so true.."
 
 <div class="poem-entry">
 
-  <p class="poem-intro">
-    Some thoughts are better left small.
-  </p>
-
   <figure class="poem-image">
   <img src="/assets/images/moon.jpeg" alt="Moon over Delhi at night">
   </figure>
@@ -71,4 +67,5 @@ Survive, yeah, just tryna survive<br>
 Yeh Delhi ki hawa hai ya ghutan ka saya<br>
 Har saans mein zeher, yeh kisne banaya?<br>
 
+</div>
 </div>

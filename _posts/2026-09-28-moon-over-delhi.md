@@ -5,12 +5,6 @@ category: "poem"
 subtitle: "Lyrics of a poem that hits: 'Damn, so true.'"
 ---
 
-<style> 
-  .poem-image { text-align: center; margin: 2.5rem 0 3rem; } 
-  .poem-image img { max-width: 100%; width: 720px; height: auto; border-radius: 6px; display: inline-block; } 
-  .poem { max-width: 720px; margin: 0 auto; line-height: 2; font-size: 1.05rem; } 
-</style>
-
 
 <div class="poem-image"> <img src="{{ '/assets/images/moon.jpeg' | relative_url }}" alt="Moon over Delhi at night"> </div>
 

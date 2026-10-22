@@ -142,7 +142,7 @@ I didn't enjoy dancing all that much. Garba, however, is a different matter. So 
 Of course she noticed. I wasn't exactly being subtle, was I?
 
   <figure class="poem-image">
-    <img src="{{ '/assets/images/pune-garba.jpeg' | relative_url }}"
+    <img src="{{ '/assets/images/we_ready_for_garba.jpeg' | relative_url }}"
          alt="Somewhere in Pune, during a conference that turned out to be about much more than research.">
   </figure>
 

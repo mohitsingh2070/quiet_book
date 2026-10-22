@@ -141,6 +141,12 @@ I didn't enjoy dancing all that much. Garba, however, is a different matter. So 
 
 Of course she noticed. I wasn't exactly being subtle, was I?
 
+  <figure class="poem-image">
+    <img src="{{ '/assets/images/pune-garba.jpeg' | relative_url }}"
+         alt="Somewhere in Pune, during a conference that turned out to be about much more than research.">
+  </figure>
+
+
 After Garba, we went to La Plasir for Italian food. By the time we got back to our rooms, it was quite late. Usha had left that afternoon, which meant Niyati was alone in her room.
 
 Later, she called me.

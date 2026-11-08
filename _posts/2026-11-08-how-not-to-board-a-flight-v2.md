@@ -110,7 +110,7 @@ The jeep was going to cost us ₹2,000. After some negotiation, we managed to br
 For details, contact us. We are now experienced in jeep negotiations.
 
 <figure class="poem-image">
-  <img src="{{ '/assets/images/forestinside.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/IMG-20261107-WA0128.jpg' | relative_url }}"
        alt="The entrance to the forest trail for the Kudremukh trek.">
   <figcaption>From here, things got serious.</figcaption>
 </figure>
@@ -138,7 +138,7 @@ Rules are important, but apparently they are more important for the people who m
 Chetan became our unofficial photographer, with full freedom to click and vlog. He took the responsibility very seriously.
 
 <figure class="poem-image">
-  <img src="{{ '/assets/images/kudrrmukh.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/IMG-20261107-WA0117.jpg' | relative_url }}"
        alt="The Kudremukh mountain landscape during the trek.">
   <figcaption>Kudremukh. The mountain was not concerned about our timetable.</figcaption>
 </figure>
@@ -166,7 +166,7 @@ Like in *Kung Fu Panda*: the dust settles, the picture becomes clear, and there 
 All three of us had made it.
 
 <figure class="poem-image">
-  <img src="{{ '/assets/images/trektrios.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/IMG-20261107-WA0115.jpg' | relative_url }}"
        alt="The three of us together during the Kudremukh trek.">
   <figcaption>The three of us. The trekking trio, finally at the top.</figcaption>
 </figure>
